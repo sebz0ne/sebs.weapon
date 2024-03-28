@@ -1,5 +1,0 @@
-local accounts = {
-
-}
-
-return accounts
